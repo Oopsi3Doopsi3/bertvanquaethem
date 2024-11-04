@@ -1,11 +1,17 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: cabin.png
+date: 2024-07-18
+img: RITO.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2nd semester 2024
+course: Game Projects
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: In the second semester of my second year, I had 'Game Projects'. This course was a group work in cooperation with the other majors. 
+Over the course of the semester, we were tasked to come up with and design our own game in the theme of 'couch co-op/pvp'.
+We came up with a pvp versus game where all the players were pitted against each other to destroy the most amount of items possible.
+This was the first course which was a real group project, so this taught me a lot about communication and teamwork.
+We were also taught how to learn Perforce and Hacknplan. The former being our version control, and the latter our platform where we made all our plannings.
+Programming-wise, we decided to go with Unreal C++, which was an enjoyable experience.
+If you want to know more of the game or play it yourself, [here](https://sebastianmax.itch.io/rageintheoffice) is the itch page.
 ---
