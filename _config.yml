@@ -2,8 +2,8 @@
 title: Bert Van Quaethem
 email: bert.vanquaethem@gmail.com
 url: https://oopsi3doopsi3.github.io/bertvanquaethem/
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "The portfolio of Bert Van Quaethem, a Game Development student at DAE - Howest, Kortrijk."
+keywords: "Bert Van Quaethem, Game Development"
 skills: "Game Development Student at DAE Kortrijk"
 meta_author: Van Quaethem Bert
 
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Bert Van Quaethem
   location: Location
   social: Around the Web
   credits: Credits
@@ -54,11 +54,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Region Gent
+  - line: East-Flanders, Belgium
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Made using Freelancer, an open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
