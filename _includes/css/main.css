@@ -264,6 +264,12 @@ section.success {
       flex: 1 0 49%;
       max-width: 49%;
     }
+    .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item img {
+        width: 100%;
+        height: 225px;
+        object-fit: fill;
+        display: block;
+      }
   }
   @media (min-width: 960px) {
     .portfolio-flex-grid .portfolio-flex-row .portfolio-flex-item {

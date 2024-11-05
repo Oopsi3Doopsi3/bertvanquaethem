@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: circus.png
-alt: image-alt
-project-date: April 2014
-course: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: "Vulkan PBR"
+date: 2024-07-17
+img: "VulkanAssignment.png"
+alt: "image-alt"
+project-date: "2nd semester 2023-2024"
+course: "Graphics Programming 2"
+description: "In Graphics Programming 2, we were taught the basics of the Vulkan API.
+Everyone started with the same assignment; drawing a triangle. While this may sound simple, if you know anything of the Vulkan API, 
+you'll know it's anything but. After getting the triangle, we could choose our direction, so I made a PBR shader. 
+The process taught me a lot. It mainly taught me about being patient and not giving up, because as i previously mentioned, the Vulkan API is anything but simple 
+and has a very steep learning curve. 
+If you'd like to see some of the code, you can find the public Github repo <a href='https://github.com/Oopsi3Doopsi3/GP2_Vulkan' target='_blank'>here</a>."
 ---

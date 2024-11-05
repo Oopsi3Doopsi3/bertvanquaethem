@@ -1,11 +1,16 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
-alt: image-alt
-project-date: April 2014
-course: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: "Galaga"
+date: 2024-07-17
+img: "Galaga.png"
+alt: "image-alt"
+project-date: "2nd semester 2023-2024"
+course: "Programming 4"
+description: "Programming 4 was a course mainly focused on engine programming.
+Every student was assigned a classic arcade game to recreate and I got Galaga.
+We got a very small codebase to start from, and from there we had to make our own engine to get to the desired end result.
+This taught us all about engine basics, from the gameplay loop and gameobject-component systems to observers and event systems.
+Next to engine basics, we also learned a lot of C++ best practices and guidelines, mostly coming from Guy Davidson's \"Beautiful C++\".
+If you'd like to see some of the code, you can find the public Github repo <a href='https://github.com/Oopsi3Doopsi3/Prog4-Engine' target='_blank'>here</a>."
 ---

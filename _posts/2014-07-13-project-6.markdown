@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 6
+title: "Clean Hands Quest (WIP)"
 date: 2014-07-15
-img: submarine.png
-alt: image-alt
-project-date: April 2014
-course: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+img: "CleanHands.png"
+alt: "image-alt"
+project-date: "1st semester 2024-2025"
+course: "Group Projects"
+description: "This is the project I'm currently working on. One of the final courses in the school curriculum is a group project together with the other majors. 
+My group and I work for the national Hand Hygiene Workgroup, who want a game to teach hand hygiene to medical staff of a hospital. 
+We are working on a detective-style game in Unity, and are expected to have finished by the ende of the year. 
+For now, there is no way to play/look at it yet, but once we have launched, I will update this page."
 ---

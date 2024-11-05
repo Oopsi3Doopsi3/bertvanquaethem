@@ -1,11 +1,14 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
-alt: image-alt
-project-date: April 2014
-course: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+title: "DirectX 11 PBR"
+date: 2023-12-17
+img: "DirectX.png"
+alt: "image-alt"
+project-date: "1st semester 2023-2024"
+course: "Graphics Programming 1"
+description: "In Graphics Programming 1, we first saw the basics of graphics programming and had to make our own raytracer and rasterizer. 
+After learning the basics, we moved over to using the popular DirectX 11 API. In this API, we had to make a PBR shader. 
+This was my first introduction to graphics programming, and I find it really interesting (albeit also very difficult) and amazing what we can do with a couple of lines of code. 
+If you'd like to see some of the code, you can find the public Github repo <a href='https://github.com/Oopsi3Doopsi3/GP1_DirectX_Starter' target='_blank'>here</a>."
 ---
