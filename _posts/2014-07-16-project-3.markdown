@@ -5,6 +5,7 @@ title: "Vulkan PBR"
 date: 2024-07-17
 img: "VulkanAssignment.png"
 alt: "image-alt"
+gif: "Vulkan.gif"
 project-date: "2nd semester 2023-2024"
 course: "Graphics Programming 2"
 description: "In Graphics Programming 2, we were taught the basics of the Vulkan API.

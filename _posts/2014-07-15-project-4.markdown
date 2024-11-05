@@ -5,6 +5,7 @@ title: "Zombie Survival Agent"
 date: 2023-12-17
 img: "ZombieSurvival.png"
 alt: "image-alt"
+gif: "ZombieSurvival.gif"
 project-date: "1st semester 2023-2024"
 course: "Gameplay Programming"
 description: "For the course Gameplay Programming, we had to program the AI for an agent stuck in a zombie apocalypse. 

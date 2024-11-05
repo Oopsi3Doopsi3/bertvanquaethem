@@ -5,6 +5,7 @@ title: "DirectX 11 PBR"
 date: 2023-12-17
 img: "DirectX.png"
 alt: "image-alt"
+gif: "DirectX.gif"
 project-date: "1st semester 2023-2024"
 course: "Graphics Programming 1"
 description: "In Graphics Programming 1, we first saw the basics of graphics programming and had to make our own raytracer and rasterizer. 

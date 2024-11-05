@@ -5,6 +5,7 @@ title: "Rage in the Office"
 date: 2024-07-18
 img: "RITO.png"
 alt: "image-alt"
+gif: "RITO.gif"
 project-date: "2nd semester 2023-2024"
 course: "Game Projects"
 description: "In the second semester of my second year, I had 'Game Projects'. This course was a group work in cooperation with the other majors. 

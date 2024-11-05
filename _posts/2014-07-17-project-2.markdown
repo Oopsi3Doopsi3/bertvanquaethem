@@ -5,6 +5,7 @@ title: "Galaga"
 date: 2024-07-17
 img: "Galaga.png"
 alt: "image-alt"
+gif: "Galaga.gif"
 project-date: "2nd semester 2023-2024"
 course: "Programming 4"
 description: "Programming 4 was a course mainly focused on engine programming.

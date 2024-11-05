@@ -5,6 +5,7 @@ title: "Clean Hands Quest (WIP)"
 date: 2014-07-15
 img: "CleanHands.png"
 alt: "image-alt"
+gif: "CleanHands.gif"
 project-date: "1st semester 2024-2025"
 course: "Group Projects"
 description: "This is the project I'm currently working on. One of the final courses in the school curriculum is a group project together with the other majors. 

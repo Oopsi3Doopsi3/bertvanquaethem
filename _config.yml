@@ -28,7 +28,7 @@ color:
   primary: 001F3F  # Navy Blue
   primary-rgb: "0, 31, 63"
   secondary: 4682B4 # Light Blue
-  secondary-dark: 708090 # Charcoal  
+  secondary-dark: 1A1A2E # Charcoal  
 
 # Footer settings
 footer:
