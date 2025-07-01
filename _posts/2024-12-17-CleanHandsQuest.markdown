@@ -1,12 +1,13 @@
 ---
 layout: default
-modal-id: 6
-title: "Clean Hands Quest (WIP)"
+modal-id: 3
+title: "Clean Hands Quest"
 date: 2014-07-15
 img: "CleanHands.png"
 alt: "image-alt"
 gif: "CleanHands.gif"
-project-date: "1st semester 2024-2025"
+technologies: "Unity - C# - Perforce - HacknPlan"
+project-date: "autumn 2024"
 course: "Group Projects"
 description: "This is the project I'm currently working on. One of the final courses in the school curriculum is a group project together with the other majors. 
 My group and I work for the national Hand Hygiene Workgroup, who want a game to teach hand hygiene to medical staff of a hospital. 

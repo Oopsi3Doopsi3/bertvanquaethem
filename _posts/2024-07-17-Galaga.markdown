@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 4
 title: "Galaga"
 date: 2024-07-17
 img: "Galaga.png"
