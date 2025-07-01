@@ -1,15 +1,18 @@
 ---
 layout: default
 modal-id: 5
-title: "DirectX 11 PBR"
+title: "VR Return to Sports"
 date: 2023-12-17
-img: "DirectX.png"
+img: "VRReturnToSports.jpg"
 alt: "image-alt"
-gif: "DirectX.gif"
-project-date: "1st semester 2023-2024"
-course: "Graphics Programming 1"
-description: "In Graphics Programming 1, we first saw the basics of graphics programming and had to make our own raytracer and rasterizer. 
-After learning the basics, we moved over to using the popular DirectX 11 API. In this API, we had to make a PBR shader. 
-This was my first introduction to graphics programming, and I find it really interesting (albeit also very difficult) and amazing what we can do with a couple of lines of code. 
-If you'd like to see some of the code, you can find the public Github repo <a href='https://github.com/Oopsi3Doopsi3/GP1_DirectX_Starter' target='_blank'>here</a>."
+gif: "VRReturnToSports.gif"
+technologies: "Unity - C# - VR - GitHub - HacknPlan"
+project-date: "spring 2025"
+course: "Internship"
+description: "The final part of my education was an internship at <a href='https://media.idlab.ugent.be/' target='_blank'>IDLab-MEDIA</a>, which is a research group that is part of Ghent University and imec.<br><br>
+Over the course of 18 weeks, I worked together with one other DAE student to make a VR football recovery game. The game simulates a real-world football exercise, which requires the player to do some physical exercises. The goal of the project is that physiotherapists can use this VR game during the rehabilitation process of someone with a knee injury to measure their progress.<br><br>
+This entire period was a huge learning experience. I got to expand upon my Unity and C# skills which I could already work quite well with due to previous projects. Knowledge from previous courses such as gameplay programming came in very handy as well. But I also had to learn a lot of new topics which were never covered in previous courses, such as networking, VR, and motion trackers. These were all things I - in collaboration with my colleague student - had to figure out and learn myself in order to get the project working.<br><br>
+Aside from technical skills, my soft skills were also greatly improved. Due to us being in a team of just two, close collaboration was required to bring the project to a good end, meaning good communication, planning, and being able to discuss differences in opinions and compromise. This was especially reinforced by our supervisor Prof. Glenn Van Wallendael. He oversees lots of other projects and people, which means he didn't always have time for us. As a result, we had to be able to be independent, help each other out, and make decisions between the two of us.<br><br>
+All in all this was a great experience with lots of interesting topics and a great way to finish my DAE career.
+"
 ---
