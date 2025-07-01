@@ -6,13 +6,14 @@ date: 2024-07-18
 img: "RITO.png"
 alt: "image-alt"
 gif: "RITO.gif"
-project-date: "2nd semester 2023-2024"
+technologies: "Unreal Engine 5 - C++ - Perforce - HacknPlan"
+project-date: "spring 2024"
 course: "Game Projects"
-description: "In the second semester of my second year, I had 'Game Projects'. This course was a group work in cooperation with the other majors. 
+description: "In the second semester of my second year, I had 'Game Projects'. This course was a group work in collaboration with the other majors, which was a first. Finally we got to make a game where we could focus fully on our job instead of programmers also having to work on art or artists having to write code.<br><br> 
 Over the course of the semester, we were tasked to come up with and design our own game in the theme of 'couch co-op/pvp'.
-We came up with a pvp versus game where all the players were pitted against each other to destroy the most amount of items possible.
-This was the first course which was a real group project, so this taught me a lot about communication and teamwork.
-We were also taught how to learn Perforce and Hacknplan. The former being our version control, and the latter our platform where we made all our plannings.
-Programming-wise, we decided to go with Unreal C++, which was an enjoyable experience.
-If you want to know more of the game or play it yourself, <a href='https://sebastianmax.itch.io/rageintheoffice' target='_blank'>here</a> is the Itch.io page."
+We came up with a pvp versus game where two to four players are at their boring desk jobs and they are done with it. They want absolutely none of it anymore and decide to smash the place up. The players are now pitted against each other to destroy as much as possible, but also each other.<br><br>
+This was my first real group project and I learned lots. Things didn't always go smooth in the group, which taught me how to deal with group issues and persevere even when circumstances aren't at their best. It gave me great insight in the importance of a coherent team and communication. A big part of that communication happened on HacknPlan, which was our planning software where we kept track of our tasks.<br><br>
+Programming-wise, we used Unreal C++ to get everything working, without any blueprints. The two biggest challenges were the object physics and the breaking of those objects. The former was achieved rigorous testing and value tweaking, while the latter was implemented using Unreal Engine's <i>Chaos Destruction<i> system, which makes for a great smashing effect.<br><br>
+For version control, we used Perforce. With a clear <i>prototype<i>, <i>development<i>, and <i>main<i> folder structure, we had a very organised and efficient way of working.<br><br>
+If you want to know more about the game or play it yourself, <a href='https://sebastianmax.itch.io/rageintheoffice' target='_blank' rel='noopener noreferrer'>here</a> is the link to the Itch.io page."
 ---
