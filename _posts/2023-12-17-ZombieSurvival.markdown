@@ -6,7 +6,8 @@ date: 2023-12-17
 img: "ZombieSurvival.png"
 alt: "image-alt"
 gif: "ZombieSurvival.gif"
-project-date: "1st semester 2023-2024"
+technologies: "C++ - GitHub"
+project-date: "autumn 2023"
 course: "Gameplay Programming"
 description: "For the course Gameplay Programming, we had to program the AI for an agent stuck in a zombie apocalypse. 
 The map holds houses which can spawn loot (weapons, food, healing) which the agent can pick up and use to fight the zombies and obtain a high score. 
