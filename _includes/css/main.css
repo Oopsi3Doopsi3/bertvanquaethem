@@ -195,6 +195,43 @@ section.success {
     }
 }
 
+.resume-container {
+  position: relative;
+  max-width: 400px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+.resume-image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.resume-overlay {
+  position: absolute;
+  top: 0; left: 0; right: 0; bottom: 0;
+  border: 8px solid rgba({{ site.color.secondary-rgb }});
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.5s ease;
+  border-radius: 5px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+}
+
+.resume-overlay i {
+  color: rgba({{ site.color.secondary-rgb }}, 0.9);
+  font-size: 10rem;
+}
+
+.resume-container:hover .resume-overlay {
+  opacity: 1;
+}
+
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
